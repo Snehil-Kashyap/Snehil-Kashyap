@@ -15,7 +15,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on *Cloud, React-Redux*
+- 🔭 I’m currently working on *Full Stack Web Development(MERN stack, FastAPI, NodeJS, React, MongoDB, PostgreSQL*
 
 - 📫 Feel free to reach me out *snehilk31@gmail.com*
 
@@ -32,7 +32,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Snehil-Kashyap&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ash-mit17&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Snehil-Kashyap&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
