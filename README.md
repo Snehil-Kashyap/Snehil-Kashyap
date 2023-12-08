@@ -15,7 +15,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on *Full Stack Web Development(MERN stack, FastAPI, NodeJS, React, MongoDB, PostgreSQL*
+- 🔭 I’m currently working on *Full Stack Web Development(MERN stack, FastAPI, NodeJS, React, MongoDB, PostgreSQL)*
 
 - 📫 Feel free to reach me out *snehilk31@gmail.com*
 
@@ -83,8 +83,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/ashmit-ranjan-625055225/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/ranjanashmit" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="[https://www.linkedin.com/in/ashmit-ranjan-625055225/](https://www.linkedin.com/in/snehil-kashyap-021142237/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
 
   
